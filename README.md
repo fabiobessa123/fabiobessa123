@@ -11,5 +11,5 @@
 - [ENVIO DE NOTIFIAÇÃO PELO DOMINIO](https://github.com/fabiobessa123/SERVIDOR-CLIENTE)
 
 ## 📫 Contato
-- LinkedIn: [linkedin.com/in/fabio-batista](https://linkedin.com/in/fabio-batista)
+- LinkedIn: [linkedin.com/in/fabio-batista-15169a193/](https://www.linkedin.com/in/fabio-batista-15169a193/)
 - E-mail: bessafabio2000@gmail.com
