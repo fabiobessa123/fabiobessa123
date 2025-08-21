@@ -1,7 +1,6 @@
 # 👋 Olá, eu sou o Fabio Bessa
 
 💻 Analista de Dados | SQL | Python | Excel Avançado  
-🚀 Apaixonado por transformar dados em decisões estratégicas
 
 ## 🔧 Habilidades
 - Python (Automação, Pandas, Análise de Dados)
